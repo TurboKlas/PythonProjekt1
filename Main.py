@@ -3,10 +3,6 @@ import matplotlib.pyplot
 import numbers
 import os
 
-#kommentar
-
-
-
 def printMainManu():
     print('==================================================')
     print('TEXT ANALYSER')
