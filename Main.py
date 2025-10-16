@@ -3,6 +3,8 @@ import matplotlib.pyplot
 import numbers
 import os
 
+#hej
+
 def printMainManu():
     print('==================================================')
     print('TEXT ANALYSER')
